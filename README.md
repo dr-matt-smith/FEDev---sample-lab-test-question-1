@@ -1,11 +1,11 @@
 [back to assessments](https://github.com/dr-matt-smith/FEDev---assessment-samples-and-walkthroughs?tab=readme-ov-file) <<<
 
 Question 1 
-| [Question 2](https://github.com/dr-matt-smith/FEDev-practical-sample-question-2)
-| [Question 3](https://github.com/dr-matt-smith/FEDev-practical-sample-question-3)
-| [Question 4](https://github.com/dr-matt-smith/FEDev-practical-sample-question-4)
-| [Question 5](https://github.com/dr-matt-smith/FEDev-practical-sample-question-5)
-| [Question 6](https://github.com/dr-matt-smith/FEDev-practical-sample-question-6)
+| [Question 2](https://github.com/dr-matt-smith/FEDev---sample-lab-test-question-2)
+| [Question 3](https://github.com/dr-matt-smith/FEDev---sample-lab-test-question-3)
+| [Question 4](https://github.com/dr-matt-smith/FEDev---sample-lab-test-question-4)
+| [Question 5](https://github.com/dr-matt-smith/FEDev---sample-lab-test-question-5)
+| [Question 6](https://github.com/dr-matt-smith/FEDev---sample-lab-test-question-6)
 
 # FEDEv - SAMPLE lab test question 1
 
