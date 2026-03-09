@@ -1,7 +1,6 @@
 [back to assessments](https://github.com/dr-matt-smith/FEDev---assessment-samples-and-walkthroughs?tab=readme-ov-file) <<<
 
 Question 1 
-| [Question 1](https://github.com/dr-matt-smith/FEDev-practical-sample-question-1)
 | [Question 2](https://github.com/dr-matt-smith/FEDev-practical-sample-question-2)
 | [Question 3](https://github.com/dr-matt-smith/FEDev-practical-sample-question-3)
 | [Question 4](https://github.com/dr-matt-smith/FEDev-practical-sample-question-4)
